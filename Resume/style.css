@@ -43,7 +43,7 @@ body {
 }
 
 .right-side {
-    width: 51%;
+    width: 50%;
     float: left;
 }
 
@@ -63,10 +63,11 @@ body {
     font-size: 20px;
     text-transform: uppercase;
     font-weight: 700;
+    color: #122d7d;
 }
 
 .left-side p {
-    color: #726d6d;
+    color: #484545;
     margin-bottom: -5px;
 }
 
@@ -84,6 +85,78 @@ body {
 }
 
 .skills li span {
-    color: #726d6d;
+    color: #484545;
 }
 
+.right-side {
+    padding: 11px;
+}
+
+.right-side h3 {
+    font-size: 20px;
+    text-transform: uppercase;
+    font-weight: 700;
+    color: #122d7d;
+}
+
+.right-side p {
+    line-height: 24px;
+    margin-bottom: -5px;
+    color: #484545;
+}
+
+.prof p span {
+    font-size: 14px;
+    color: black;
+    font-weight: 600;
+}
+
+.expert h4 {
+    margin-left: 5px;
+    margin: 0px;
+    margin-bottom: 12px;
+    font-size: 17px;
+    font-weight: 600;
+}
+
+.expert a {
+    font-size: 16px;
+    font-weight: 600;
+    text-decoration: none;
+    padding-left: 55px;
+}
+
+.expert .date span {
+    font-size: 16px;
+    font-weight: 600;
+}
+
+
+.expert .para span {
+    font-size: 14px;
+    font-weight: 500;
+    color: #2c5dd8;
+}
+
+
+.projet h5 {
+    font-size: 15px;
+    margin-left: 4px;
+    margin: 0px;
+    color:#242121;
+}
+
+.projet .pop {
+    margin-left: -20px;
+    margin-bottom: 0px;
+}
+
+
+.projet .pop li {
+    padding: 1px;
+}
+
+.projet .pop li span {
+    font-size: 14px;
+    color: #484545;
+}
