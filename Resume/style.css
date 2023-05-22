@@ -6,7 +6,7 @@ body {
 }
 
 .main {
-    height: 1150px;
+    height: 1190px;
     width: 800px;
     background-color: white;
     box-shadow: 5px 7px 15px 5px #b9b6b6;
@@ -49,9 +49,9 @@ body {
 
 .line {
     border-left: 1px solid #c7c7c7;
-    height: 800px;
+    height: 922px;
     width: 2%;
-    margin-top: 20px;
+    margin-top: 25px;
     float: left;
 }
 
@@ -159,4 +159,9 @@ body {
 .projet .pop li span {
     font-size: 14px;
     color: #484545;
+}
+
+
+.info-3 {
+   
 }
