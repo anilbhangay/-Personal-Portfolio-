@@ -37,3 +37,53 @@ body {
     margin-top: 10px;
 }
 
+.left-side {
+    width: 35%;
+    float: left;
+}
+
+.right-side {
+    width: 51%;
+    float: left;
+}
+
+.line {
+    border-left: 1px solid #c7c7c7;
+    height: 800px;
+    width: 2%;
+    margin-top: 20px;
+    float: left;
+}
+
+.left-side {
+    padding: 40px;
+}
+
+.left-side h3 {
+    font-size: 20px;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+
+.left-side p {
+    color: #726d6d;
+    margin-bottom: -5px;
+}
+
+.fa {
+    color: #151b29;
+}
+
+.skills {
+    margin-left: -20px;
+    margin-bottom: 0px;
+}
+
+.skills li {
+    padding: 4px;
+}
+
+.skills li span {
+    color: #726d6d;
+}
+
