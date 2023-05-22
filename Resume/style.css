@@ -200,3 +200,10 @@ body {
     font-size: 16px;
     color: #484545;
 }
+
+.header a {
+    font-size: 13px;
+    color: grey;
+    text-decoration: none;
+    float: right;
+}
