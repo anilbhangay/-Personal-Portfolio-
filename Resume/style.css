@@ -94,6 +94,8 @@ body {
 }
 
 .skills li span {
+    font-size: 15px;
+    font-weight: 700;
     color: #484545;
 }
 
@@ -112,6 +114,11 @@ body {
     line-height: 24px;
     margin-bottom: -5px;
     color: #484545;
+}
+
+.prof p {
+    background-color: #e4edde;
+    padding: 0px 4px;
 }
 
 .prof p span {
