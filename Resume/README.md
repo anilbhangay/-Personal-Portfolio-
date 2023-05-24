@@ -1,6 +1,6 @@
 # Created Web Developer [ Resume ]
 
- ## Description : -
+ ## Description :-
 - #### Strong organizational skills and the ability to manage multiple projects simultaneously 
 - #### Knowledge of modern web development tools and frameworks, such as React
 - ####  Ability to work independently and as part of a team
