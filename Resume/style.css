@@ -41,11 +41,11 @@ body {
 }
 
 .info-1 {
-    margin-bottom: 22px;
+    margin-bottom: 20px;
 }
 
 .left-side {
-    margin-top: -28px;
+    margin-top: -30px;
     width: 35%;
     float: left;
 }
@@ -85,6 +85,7 @@ body {
 
 .skills {
     margin-left: -20px;
+    margin-top: -15px;
     margin-bottom: 0px;
 }
 
@@ -207,7 +208,7 @@ body {
 .info-4  .hob {
     margin-left: -20px;
     margin-bottom: 0px;
-    margin-top: -13px;
+    margin-top: -14px;
     
 }
 
@@ -216,7 +217,7 @@ body {
 }
 
 .hob li span {
-    font-size: 15px;
+    font-size: 14px;
     color: #484545;
 }
 
