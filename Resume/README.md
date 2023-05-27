@@ -7,4 +7,5 @@
 - #### Experience with version control systems, such as Git.
  
  ### Resume :
- ![Screenshot_Resume](https://github.com/anilbhangay/Personal-Portfolio/assets/107872928/71389e58-f9e5-4be5-a70b-870afd2d5dc9)
+
+![Resume-Screenshot](https://github.com/anilbhangay/Personal-Portfolio/assets/107872928/d89a9cd1-bf95-4e25-acea-b39a3c139612)
