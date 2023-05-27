@@ -15,7 +15,7 @@ body {
 
 .header {
     background-color: #151b29;
-    margin-bottom: -28px;
+    margin-bottom: -26px;
 }
 
 .header h1 {
@@ -184,11 +184,11 @@ body {
 }
 
 .info-3 {
-    margin-top: -19px;
+    margin-top: -18px;
 }
 
 .info-3  .name {
-     font-size: 14px;
+     font-size: 15px;
      font-weight: bold;
      text-transform: uppercase;
      color: #2c5dd8;
@@ -201,7 +201,7 @@ body {
 
 .info-3  p {
     margin-left: 2px;
-    font-size: 15px;
+    font-size: 14px;
     color: #484545;
 }
 
