@@ -169,6 +169,10 @@ body {
     color:#242121;
 }
 
+.projet .title a {
+     color: darkolivegreen;
+}
+
 .projet .pop {
     margin-left: -20px;
     margin-bottom: 0px;
