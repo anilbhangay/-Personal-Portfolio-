@@ -170,6 +170,7 @@ body {
 }
 
 .projet .title a {
+    padding-left: 9px;
      color: darkolivegreen;
 }
 
@@ -238,7 +239,7 @@ body {
 .header a i {
     font-size: 19px;
     line-height: 28px;
-    color: #0077b5;
+    color: #ffffff;
 }
 
 .header a:hover {
