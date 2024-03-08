@@ -206,7 +206,7 @@
     }
 
     .info-3 {
-        margin-top: -18px;
+        margin-top: -15px;
     }
 
     .info-3  .name {
@@ -227,10 +227,14 @@
         color: #484545;
     }
 
+     .all-educt {
+        margin-top: -9px;
+     }
+
     .info-4  .hob {
         margin-left: -20px;
-        margin-bottom: 0px;
-        margin-top: -15px;   
+        margin-bottom: -30px;
+        margin-top: -17px;   
     }
 
     .hob li {
