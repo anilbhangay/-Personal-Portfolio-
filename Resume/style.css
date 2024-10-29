@@ -83,10 +83,27 @@
         color: #151b29;
     }
 
-    .skills {
+
+    .tool {
         margin-left: -20px;
         margin-top: -15px;
         margin-bottom: 0px;
+    }
+
+    .tool li {
+        padding: 4px;
+    }
+
+    .tool li span {
+        font-size: 15px;
+        font-weight: 700;
+        color: #484545;
+    }
+
+    .skills {
+        margin-left: -20px;
+        margin-top: -15px;
+        margin-bottom: -15px;
     }
 
     .skills li {
@@ -223,7 +240,7 @@
 
     .info-3  p {
         margin-left: 2px;
-        font-size: 14px;
+        font-size: 15px;
         color: #484545;
     }
 
@@ -233,7 +250,7 @@
 
     .info-4  .hob {
         margin-left: -20px;
-        margin-bottom: -30px;
+        margin-bottom: -20px;
         margin-top: -17px;   
     }
 
@@ -243,6 +260,22 @@
 
     .hob li span {
         font-size: 15px;
+        color: #484545;
+    }
+    
+    
+    .info-5 .lan {
+        margin-left: -20px;
+        margin-bottom: -10px;
+        margin-top: -16px;   
+    }
+
+    .lan li {
+        padding: 3px;
+    }
+
+    .lan li span {
+        font-size: 14px;
         color: #484545;
     }
 
